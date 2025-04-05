@@ -42,7 +42,7 @@
 <h2>🚀 Como executar</h2>
 <ol>
   <li>Clone o repositório:
-    <pre><code>git clone https://github.com/seu-usuario/seu-repositorio.git</code></pre>
+    <pre><code>git clone https://github.com/Dvd-coder-art/java-crud.git</code></pre>
   </li>
   <li>Configure o banco de dados no <code>application.properties</code> ou <code>application.yml</code>.</li>
   <li>Rode o projeto:
