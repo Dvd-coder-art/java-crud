@@ -1,7 +1,7 @@
 <h1>☕ CRUD com Java 17 + Spring Boot</h1>
 
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="60" />
-<img src="https://img.icons8.com/color/600/spring-logo.png" alt="Spring Boot" width="60" />
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="60" /> <img src="https://img.icons8.com/color/600/spring-logo.png" alt="Spring Boot" width="60" />
+
 
 <hr />
 
